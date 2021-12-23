@@ -1,4 +1,4 @@
-# Factorization Machine Algorithm with Implicit Feedback #
+# Factorization Machine Algorithm with Explicit Feedback #
 ---
 [AWS Docs](https://docs.aws.amazon.com/sagemaker/latest/dg/fact-machines.html)
 
